@@ -1,20 +1,23 @@
-#MY FIRST WEBSITE
+# MY FIRST WEBSITE
 
 This is a simple HTML website to test my skills on what i have acquired in the first week of prep class.
 
-##Prerequisite
+## Prerequisite
+
 -Basic Git knowledge,HTML knowledge
 
-##Requirements
+## Requirements
+
 Browser or Text Editor
 
-##Technologies Used
+## Technologies Used
+
 -html
 -Css
 -Atom text editor
 -Command line Terminal
 
-##Set up Requirements
+## Set up Requirements
+
 -Open Browser
--Enter link below
-https://j-okoto.github.io/my-first-webpage/
+-Enter link provided
